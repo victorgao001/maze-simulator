@@ -1,0 +1,14 @@
+name: Build and deploy this site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - run: npm install
+      - run: npm run deploy
+    
