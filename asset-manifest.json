@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/maze-simulator/static/css/main.53003e20.chunk.css",
+    "main.js": "/maze-simulator/static/js/main.6075e941.chunk.js",
+    "main.js.map": "/maze-simulator/static/js/main.6075e941.chunk.js.map",
+    "runtime-main.js": "/maze-simulator/static/js/runtime-main.15039c00.js",
+    "runtime-main.js.map": "/maze-simulator/static/js/runtime-main.15039c00.js.map",
+    "static/js/2.c19aada4.chunk.js": "/maze-simulator/static/js/2.c19aada4.chunk.js",
+    "static/js/2.c19aada4.chunk.js.map": "/maze-simulator/static/js/2.c19aada4.chunk.js.map",
+    "index.html": "/maze-simulator/index.html",
+    "precache-manifest.ecc9d00449b8c2ccabdbe34d3da9672a.js": "/maze-simulator/precache-manifest.ecc9d00449b8c2ccabdbe34d3da9672a.js",
+    "service-worker.js": "/maze-simulator/service-worker.js",
+    "static/css/main.53003e20.chunk.css.map": "/maze-simulator/static/css/main.53003e20.chunk.css.map",
+    "static/js/2.c19aada4.chunk.js.LICENSE.txt": "/maze-simulator/static/js/2.c19aada4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/maze-simulator/static/media/OpenSans-Regular.629a55a7.ttf",
+    "static/media/logo.ico": "/maze-simulator/static/media/logo.3ef91830.ico"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15039c00.js",
+    "static/js/2.c19aada4.chunk.js",
+    "static/css/main.53003e20.chunk.css",
+    "static/js/main.6075e941.chunk.js"
+  ]
+}
